@@ -1,4 +1,4 @@
-
+set search_path to brayan;
 
 -- 1. Obtener una lista de todos los vehículos disponibles para la venta, incluyendo detalles como marca, modelo, y precio.
 
